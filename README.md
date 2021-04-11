@@ -3,13 +3,6 @@
 
 # Welcome! I'm supperthomas
 
-<p align="center">
-  <a href="https://github.com/supperthomas">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/supperthomas?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/supperthomas">
-    <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a>
-</p>
-
 
 <a href="https://github.com/supperthomas">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=supperthomas&layout=compact&theme=material-palenight" />
@@ -29,7 +22,10 @@
   <a href="https://github.com/supperthomas/nrf5x_sdk">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=nrf5x_sdk&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="Nordic sdk"></a>
 </p>
+
+
 ## 手上拥有的开发板
+
 
 | 开发板名称            | 开发板相关链接                                               | 备注              | soc类型         |
 | --------------------- | ------------------------------------------------------------ | ----------------- | --------------- |
@@ -55,6 +51,8 @@
   <a href="https://github.com/supperthomas/BSP_BOARD_MAX32660">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=BSP_BOARD_MAX32660&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="max32660 sdk"></a>
 </p>
+
+
 ## 学习中的repo
 
 
