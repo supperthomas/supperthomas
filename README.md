@@ -48,6 +48,8 @@
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=supperthomas_doc&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="supperthomas_doc"></a>
   <a href="https://github.com/supperthomas/H750_MINI_RTT">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=H750_MINI_RTT&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="H750_MINI_RTT"></a>
+  <a href="https://github.com/supperthomas/RTTHREAD_SEGGER_TOOL">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=RTTHREAD_SEGGER_TOOL&theme=react&bg_color=1D1117&hide_border=true&show_icons=true" alt="RTTHREAD_SEGGER_TOOL"></a>
   <a href="https://github.com/supperthomas/BSP_BOARD_MAX32660">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=BSP_BOARD_MAX32660&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="max32660 sdk"></a>
 </p>
