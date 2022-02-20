@@ -1,0 +1,22 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 20:00 UTC on the 1, 4, 7, 10, 13, 16, 19, 22, 25, 28 and 31st of every month.
+    - cron: '0 20 1/3 * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
