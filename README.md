@@ -67,3 +67,5 @@
 
 <a href="https://github.com/supperthomas"><img alt="supperthomas's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=supperthomas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
