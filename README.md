@@ -50,8 +50,13 @@
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=H750_MINI_RTT&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="H750_MINI_RTT"></a>
   <a href="https://github.com/supperthomas/RTTHREAD_SEGGER_TOOL">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=RTTHREAD_SEGGER_TOOL&theme=react&bg_color=1D1117&hide_border=true&show_icons=true" alt="RTTHREAD_SEGGER_TOOL"></a>
-  <a href="https://github.com/supperthomas/BSP_BOARD_MAX32660">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=BSP_BOARD_MAX32660&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="max32660 sdk"></a>
+  <a href="https://github.com/supperthomas/rtthread_software_package_list_show">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=rtthread_software_package_list_show&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="rtt package list"></a>
+      <a href="https://github.com/supperthomas/RTT_PACKAGE_BTSTACK">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=RTT_PACKAGE_BTSTACK&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="btstack package for rtt"></a>
+      <a href="https://github.com/supperthomas/LLSync_sdk_adapter">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=supperthomas&repo=LLSync_sdk_adapter&theme=react&bg_color=0D1117&hide_border=true&show_icons=true" alt="llsync from nimble"></a>
+    
 </p>
 
 
